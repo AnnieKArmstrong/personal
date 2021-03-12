@@ -1,10 +1,37 @@
 ---
 title: "Publications"
-author: "Anne Armstrong"
-date: "3/12/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+**********
+**Articles**
+
+Armstrong, A. K., & Krasny, M. E. (2020). Tracing Paths from Research to Practice in Climate Change Education. [*Sustainability*, 12(11), 4779](https://www.mdpi.com/2071-1050/12/11/4779).
+
+Eiseman, D., Armstrong, A.K., & Chatrchyan, A.M. (2020). Designing an Extension climate stewards volunteer program: Incorporating sense of community, social practice, and self-efficacy theories. [*Environmental Education Research*,26(11), 1636-1655, DOI: 10.1080/13504622.2020.1811841](https://www.tandfonline.com/doi/full/10.1080/13504622.2020.1811841?scroll=top&needAccess=true).
+
+Li, Y., Armstrong, A.K., Krasny, M.E. “MOOC teaching assistants’ global learning in the US and China.” *In preparation.*   
+
+****************
+**Books**
+
+Armstrong, A.K., Krasny, M.E., and Schuldt, J.P. (2018). [*Climate Change Communication: A Guide for Educators.*](https://www.amazon.com/Communicating-Climate-Change-Educators-Environmental-ebook/dp/B07FT3V2G5/ref=sr_1_4?dchild=1&keywords=Anne+Armstrong&qid=1615581213&sr=8-4). Cornell University Press. 	
+
+**************
+
+**Book Chapters**
+
+Armstrong, A.K. Stedman, R.C., and Krasny, M.E. (2021). “Intimacy on the Half-Shell: Place, Oysters, and the Emerging Narrative of Virginia Aquaculture.” In [*Intimate Relations: Communicating (in) the Anthropocene.*](https://www.amazon.com/Communicating-Anthropocene-Environmental-Communication-Ecoculture-ebook/dp/B08S6WBTF7/ref=sr_1_5?dchild=1&keywords=Anne+Armstrong&qid=1615582995&sr=8-5) Malden, MA: Lexington Press (Roman and Littlefield).
+
+Kudryavtsev, A., Armstrong, A. K., & Krasny, M. E. (2021). Urban Agriculture In Parks: Fostering Youth Civic Engagement. In P. Fix, L. R. Larson, K. S. Lekies, S. Park, K. Scholl, K. G. Tidball, & T. Stein (Eds.), *The Transformative Power of Parks.* Sagamore Venture Publishing.
+
+
+**************
+
+**Conference Papers**
+
+Kizilcec, R. F., Cho, J. Y., Li, Y., & Armstrong, A. K. (*In review*). Social Norms Interventions in Online Courses: Effects and Actions Beyond the Course. Learning @ Scale/EMOOCs, Online & Potsdam, Germany.
+ 
