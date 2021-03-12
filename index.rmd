@@ -4,6 +4,6 @@ output: html_document
 
 # Anne K. Armstrong
 
-I am a PhD Candidate in the Civic Ecology Lab (Department of Natural Resources) at Cornell University. My dissertation investigates the development and longevity of place-based group identity in youth and alumni of Bronx-based organization Rocking the Boat. She is the lead author of *Climate Change Communication: A Guide for Educators* (2018, Cornell University Press). I am committed to community engaged research and to knowledge co-creation with community partners. 
+I am a PhD Candidate in the [Civic Ecology Lab](www.civicecology.org) at Cornell University. My dissertation investigates the development and longevity of place-based group identity in youth and alumni of Bronx-based organization Rocking the Boat. I am the lead author of [*Climate Change Communication: A Guide for Educators*](https://www.amazon.com/Communicating-Climate-Change-Educators-Environmental-ebook/dp/B07FT3V2G5/ref=sr_1_4?dchild=1&keywords=Anne+Armstrong&qid=1615581213&sr=8-4). 
 
 ![Bronx River at Hunts Point Riverside Park](C:/Users/Annie Armstrong/Documents/Github/personal/bronxriver.jpg)
