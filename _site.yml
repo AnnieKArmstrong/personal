@@ -1,9 +1,11 @@
-name: "our-website"
+name: "annekarmstrong"
 navbar:
-  title: "Our Collaborative Website"
+  title: "Anne K. Armstrong"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
 output_dir: "."
