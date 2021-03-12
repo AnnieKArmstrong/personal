@@ -5,7 +5,7 @@ output: html_document
 *************
 ## Challenging Place Stigma through Urban Environmental Stewardship
 
-In 2019, I embarked on an engaged research project with Rocking the Boat, a positive youth development organization in the South Bronx. The goal of the research was to iden this identify how the organization's environmental activities served its overall youth development mission. 
+In 2019, I embarked on an engaged research project with [Rocking the Boat](https://rockingtheboat.org/), a positive youth development organization in the South Bronx. The goal of the research was to iden this identify how the organization's environmental activities served its overall youth development mission. 
 
 Data collection included observation, group and individual interviews, and mind mapping. One key outcome of participating in Rocking the Boat's water quality monitoring activities is that it gives youth an avenue for reshaping how they think and talk about the Bronx and the Bronx River. As one youth put it:
 
@@ -17,7 +17,7 @@ Data collection included observation, group and individual interviews, and mind 
 
 ## Enduring Outcomes in Rocking the Boat Alumni
 
-I’m working with Rocking the Boat alumni social worker Stevi Feinberg to better understand how RTB alums perceive RTB's long-term impacts on their lives. As of March, 2021, we are actively collecting survey data from alumni and will begin interviewing interested alums in April. To hear a little more about this research, watch this [short video](https://youtu.be/38rvIKKCgeQ) 
+I’m working with Rocking the Boat alumni social worker Stevi Feinberg to better understand how RTB alums perceive RTB's long-term impacts on their lives. As of March, 2021, we are actively collecting survey data from alumni and will begin interviewing interested alums in April. To hear a little more about this research, watch this [short video](https://youtu.be/38rvIKKCgeQ). 
 
 
 ![RTB Alum Survey Advertisement](C:/Users/Annie Armstrong/Documents/Github/personal/rtbalumad.jpg){width=50%}
