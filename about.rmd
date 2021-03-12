@@ -1,6 +1,0 @@
----
-title: "About"
-output: html_document
----
-
-Anne Armstrong is a PhD Candidate in the Civic Ecology Lab (Department of Natural Resources) at Cornell University. Her dissertation investigates the development and longevity of place-based group identity in youth and alumni of Bronx-based organization Rocking the Boat. She is the lead author of *Climate Change Communication: A Guide for Educators* (2018, Cornell University Press). 
