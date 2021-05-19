@@ -24,4 +24,15 @@ I’m working with Rocking the Boat alumni social worker Stevi Feinberg to bette
 
 **************************
 
+## Place Stigma and the Bronx River: A Text Mining Analysis
+
+In the 1970s, the Bronx became synonymous worldwide as a symbol of urban decay and dysfunction, as of decades disinvestment culminated in whole cenus tracks losing nearly all of their housing to abandonment and to fires. Youth participating in Rocking the Boat are highly aware of their borough's stigma even as they contest it. How has the Bronx River featured in the public imagination over the last 50 years? I seek to answer this question through topic modeling and sentiment analysis of **New York Times** articles and Bronx River related tweets. 
+
+
+*************************
+## Citizen Science and Empowerment: A Systematic Review
+PI: Rina Hauptfield, Colorado Statue University
+Co-authors: Dr. Xoco Shinbrot, Cornell University & Miguel Jimenez, National Audubon Society
+
+Does public participation in scientific research (PPSR) empower participants? In this systematic review, we reviewed articles that specifically claimed empowerment as a participant outcome and delve into the depth of evidence supporting these claims. 
 
